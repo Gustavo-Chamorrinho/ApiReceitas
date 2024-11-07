@@ -12,6 +12,14 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ReceitasContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("ReceitasDB")));
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin", policy =>
+    {
+        policy.WithOrigins("http://localhost:5244/").AllowAnyMethod().AllowAnyHeader();
+    });
+});
+
 var app = builder.Build();
 
 
@@ -23,6 +31,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("AllowSpecificOrigin");
 
 app.UseAuthorization();
 

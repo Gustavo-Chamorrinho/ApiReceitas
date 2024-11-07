@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ho0Tq+/e/d6T5uSmG045yGVPvefUFv6wgM7PY1bkWweotVdVYyH1Bt+n0qbBGLbx5N5oqHt7Z6CAlw2RnRuNkQ==",
+  "dgSpecHash": "d0c3zWf0XJelZXwkRu/hHjLxVhpj9bcpGRjJYL+6FBSpQWVkUNWt+HtXKBr1+snm6IuhXO3ovfK7o5SbZUpO5w==",
   "success": true,
-  "projectFilePath": "D:\\treinamento c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj",
+  "projectFilePath": "D:\\treinamento_c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

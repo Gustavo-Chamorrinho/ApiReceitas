@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\treinamento c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj": {}
+    "D:\\treinamento_c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj": {}
   },
   "projects": {
-    "D:\\treinamento c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj": {
+    "D:\\treinamento_c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\treinamento c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj",
+        "projectUniqueName": "D:\\treinamento_c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj",
         "projectName": "ApiReceitas",
-        "projectPath": "D:\\treinamento c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj",
+        "projectPath": "D:\\treinamento_c#\\ApiReceitas\\ApiReceitas\\ApiReceitas.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "D:\\treinamento c#\\ApiReceitas\\ApiReceitas\\obj\\",
+        "outputPath": "D:\\treinamento_c#\\ApiReceitas\\ApiReceitas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
